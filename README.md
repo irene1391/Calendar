@@ -1,6 +1,6 @@
 
 
-#Funtion
+# Funtion
 
 #### Basic
 Users are able to login/logout/register, add and remove events dynamically. Support a month-by-month view of the calendar.
@@ -22,5 +22,8 @@ This function helps users to set their event display at a certain time. When the
 #### Closure Component
 Imitating the component structure of ReactJS to create a unique closure environment to handle feature logic and render components, increasing code reusability.
 
-#Atribution
+***
+
+# Atribution
+
 This is one of my previous course projects. Any students who copy to finish their assignments will be charged with academic integrity problems. This is not your wiki.
