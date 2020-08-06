@@ -28,6 +28,6 @@
   <script src="utils/calendarUtils.js"></script>
   <script src="utils/templates.js"></script>
   <script src="index.js"></script>
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyATxMgRT-d3IeM1M2dg5iS5T1RR8N7T-No&callback=setMapReady"></script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=USEYOUROWNKEY"></script>
 </body>
 </html>
